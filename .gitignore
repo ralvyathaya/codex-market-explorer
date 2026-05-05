@@ -2,6 +2,9 @@
 Thumbs.db
 *.tmp
 *.log
+npm-debug.log*
+node_modules/
+*.tgz
 
 # Local/private source files
 *.pdf

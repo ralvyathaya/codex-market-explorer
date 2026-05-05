@@ -1,0 +1,41 @@
+{
+  "name": "market-research-sprint",
+  "version": "0.1.0",
+  "description": "Install a Codex skill for market pain research, gap discovery, offer shaping, and landing page briefs.",
+  "license": "MIT",
+  "author": "RALVY",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ralvyathaya/Market-explorer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ralvyathaya/Market-explorer/issues"
+  },
+  "homepage": "https://github.com/ralvyathaya/Market-explorer#readme",
+  "keywords": [
+    "codex",
+    "skill",
+    "agent-skills",
+    "market-research",
+    "customer-research",
+    "reddit-research",
+    "startup"
+  ],
+  "bin": {
+    "market-research-sprint": "bin/market-research-sprint.js"
+  },
+  "files": [
+    "bin/",
+    "scripts/",
+    "skills/market-research-sprint/",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "test": "node ./bin/market-research-sprint.js --self-test && node ./scripts/validate-skill.js",
+    "pack:dry": "npm pack --dry-run"
+  }
+}
