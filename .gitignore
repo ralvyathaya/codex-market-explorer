@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# Local/private source files
+*.pdf
+
+# Runtime caches
+.cache/
+__pycache__/

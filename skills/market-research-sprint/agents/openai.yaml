@@ -1,0 +1,4 @@
+interface:
+  display_name: "Market Research Sprint"
+  short_description: "Research market pain, gaps, and offers"
+  default_prompt: "Use $market-research-sprint to research a market, extract customer pain points, and generate offer ideas."
