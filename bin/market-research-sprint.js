@@ -16,13 +16,13 @@ market-research-sprint
 Install the ${skillName} Codex skill into your local skills directory.
 
 Usage:
-  npx --yes market-research-sprint@latest
-  npx --yes market-research-sprint@latest install
-  npx --yes market-research-sprint@latest install --force
-  npx --yes market-research-sprint@latest install --dest <skills-dir-or-skill-dir>
-  npx --yes market-research-sprint@latest where
+  npx --yes github:ralvyathaya/Market-explorer
+  npx --yes github:ralvyathaya/Market-explorer install
+  npx --yes github:ralvyathaya/Market-explorer install --force
+  npx --yes github:ralvyathaya/Market-explorer install --dest <skills-dir-or-skill-dir>
+  npx --yes github:ralvyathaya/Market-explorer where
 
-  npm exec --yes --package market-research-sprint@latest -- market-research-sprint install
+  npx --yes market-research-sprint@latest install
 
 Options:
   --codex-home <path>  Use a specific Codex home directory.
