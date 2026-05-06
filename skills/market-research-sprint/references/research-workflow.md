@@ -63,6 +63,7 @@ For each pain point, capture:
 - Frequency estimate: low, medium, high, or a count if data is structured.
 - Intensity estimate: low, medium, high, based on emotional language and stakes.
 - Solvability estimate: low, medium, high, based on whether a product/service could realistically help.
+- Current workaround or existing alternative.
 - Existing solutions mentioned and why users dislike them.
 
 ## Evidence Rules
@@ -94,3 +95,26 @@ Prefer a direct verdict over neutral hedging:
 - **Promising but unproven**: real pain, but buyer/pay channel or differentiation is uncertain.
 - **Weak**: vague pain, unclear buyer, crowded market, or low urgency.
 - **Pivot required**: the current framing hides a better adjacent problem.
+
+## Default Scorecard Fields
+
+Use these fields in full sprint outputs:
+
+| Field | Guidance |
+|---|---|
+| Pain | Name the problem in customer-centered language. |
+| Evidence | Use a short quote, source note, or observed repeated theme. |
+| Frequency | Use 1-5, or low/medium/high if source volume is thin. |
+| Intensity | Use 1-5 based on urgency, emotion, cost, or risk. |
+| Current workaround | Name what people do today, even if it is manual or bad. |
+| Solvability | Use 1-5 based on whether a focused product/service could help. |
+
+## Evidence vs Inference Output
+
+Keep the distinction visible:
+
+- **Evidence**: what was directly seen in source data.
+- **Inference**: what likely follows, but is not proven.
+- **Unknowns**: facts that must be researched or tested before committing.
+
+If evidence quality is weak, keep recommendations smaller and push the next step toward data collection instead of product design.

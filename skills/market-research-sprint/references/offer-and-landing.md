@@ -16,6 +16,7 @@ Apply these lenses:
 For each concept, include:
 
 - Name.
+- Buyer.
 - Target segment.
 - Pain addressed.
 - Core promise.
@@ -47,17 +48,20 @@ Use this structure:
 ```markdown
 **Offer**
 - Name:
-- Audience:
+- Buyer:
+- Audience/segment:
 - Problem:
 - Promise:
 - Mechanism:
 - Format:
+- Differentiator:
 - Price hypothesis:
 - Primary acquisition channel:
 
 **Why This Segment**
 - Evidence:
 - Inference:
+- Unknowns:
 
 **MVP Test**
 - Build:
@@ -65,6 +69,15 @@ Use this structure:
 - Success metric:
 - Kill criterion:
 ```
+
+For full sprint outputs, compress the top offers into this table:
+
+```markdown
+| Offer | Buyer | Promise | Differentiator | MVP test | Risk |
+|---|---|---|---|---|---|
+```
+
+The MVP test must be manual or concierge-first when possible. Avoid recommending software buildout until the buyer, pain, and willingness to act are clearer.
 
 ## Landing Page Brief
 
@@ -83,6 +96,8 @@ Use a Before-After-Bridge structure:
 9. Final CTA.
 
 Do not invent testimonials, founder credentials, expert endorsements, medical/legal claims, or fake integrations. Use placeholders when proof is missing.
+
+Always include **Proof needed** in landing page briefs. If proof is missing, recommend the smallest credible proof to gather next, such as 5 customer interviews, a waitlist, a before/after case note, or a paid pilot.
 
 ## Builder Prompt Format
 

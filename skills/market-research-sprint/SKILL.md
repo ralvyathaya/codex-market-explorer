@@ -43,11 +43,18 @@ Read only the reference file needed for the current task:
 For full sprint requests, produce:
 
 ```markdown
+**Verdict**
+Strong / Promising but unproven / Weak / Pivot required
+
+1-3 direct sentences on whether this market deserves more validation, what makes it attractive or risky, and the single biggest assumption.
+
 **Research Snapshot**
 - Market:
-- Audience:
+- Target customer:
 - Geography/language:
 - Evidence quality:
+- Main assumption:
+- Current data limitation:
 
 **Market Map**
 ...
@@ -55,33 +62,39 @@ For full sprint requests, produce:
 **Search Query Pack**
 ...
 
-**Pain Points**
-| Pain | Evidence | Frequency | Intensity | Solvability |
-|---|---|---:|---:|---:|
+**Pain Point Scorecard**
+| Pain | Evidence | Frequency | Intensity | Current workaround | Solvability |
+|---|---|---:|---:|---|---:|
 
 **Customer Language**
 - "..."
+- "..."
+
+**Evidence vs Inference**
+- Evidence:
+- Inference:
+- Unknowns:
 
 **Market Gaps**
-| Opportunity | Segment | Why now | Differentiator | Risk |
+| Gap | Segment | Why it exists | Existing alternatives | Opportunity |
 |---|---|---|---|---|
 
-**Top Offers**
-1. ...
-2. ...
-3. ...
+**Top 3 Offers**
+| Offer | Buyer | Promise | Differentiator | MVP test | Risk |
+|---|---|---|---|---|---|
 
 **Landing Page Brief**
 - Positioning:
 - Above the fold:
 - Pain section:
 - Outcome section:
+- Proof needed:
 - CTA:
 
-**Validation Next Steps**
-1. ...
-2. ...
-3. ...
+**Validation Plan**
+1. Fastest manual test:
+2. Success metric:
+3. Kill criterion:
 ```
 
 Shorten the output when the user asks for only one stage.
@@ -94,4 +107,6 @@ Before finalizing, check:
 - Every quote is traceable to provided or retrieved text.
 - Assumptions are named plainly.
 - Recommendations follow from pain evidence.
+- The verdict is explicit and not hedged.
 - The top opportunity can be tested manually before building software.
+- Success metrics and kill criteria are concrete enough to run this week.
