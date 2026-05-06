@@ -31,7 +31,7 @@ npx --version
 Run:
 
 ```powershell
-npx --yes github:ralvyathaya/Market-explorer
+npx --yes github:ralvyathaya/codex-market-explorer
 ```
 
 Then restart Codex.
@@ -57,13 +57,13 @@ $CODEX_HOME/skills/market-research-sprint
 ## Install Options
 
 ```powershell
-npx --yes github:ralvyathaya/Market-explorer where
+npx --yes github:ralvyathaya/codex-market-explorer where
 
-npx --yes github:ralvyathaya/Market-explorer install --dry-run
+npx --yes github:ralvyathaya/codex-market-explorer install --dry-run
 
-npx --yes github:ralvyathaya/Market-explorer install --force
+npx --yes github:ralvyathaya/codex-market-explorer install --force
 
-npx --yes github:ralvyathaya/Market-explorer install --dest "$env:USERPROFILE\.codex\skills"
+npx --yes github:ralvyathaya/codex-market-explorer install --dest "$env:USERPROFILE\.codex\skills"
 ```
 
 These commands show the install path, preview the install, replace an existing copy, or install to a custom skills folder.
@@ -183,13 +183,13 @@ If `npx` is not recognized, install Node.js 18 or newer, then open a new termina
 If the skill does not appear in Codex, restart Codex first. Then check the install path:
 
 ```powershell
-npx --yes github:ralvyathaya/Market-explorer where
+npx --yes github:ralvyathaya/codex-market-explorer where
 ```
 
 If needed, reinstall:
 
 ```powershell
-npx --yes github:ralvyathaya/Market-explorer install --force
+npx --yes github:ralvyathaya/codex-market-explorer install --force
 ```
 
 To avoid live web research, tell Codex:

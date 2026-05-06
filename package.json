@@ -6,12 +6,12 @@
   "author": "RALVY",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ralvyathaya/Market-explorer.git"
+    "url": "git+https://github.com/ralvyathaya/codex-market-explorer.git"
   },
   "bugs": {
-    "url": "https://github.com/ralvyathaya/Market-explorer/issues"
+    "url": "https://github.com/ralvyathaya/codex-market-explorer/issues"
   },
-  "homepage": "https://github.com/ralvyathaya/Market-explorer#readme",
+  "homepage": "https://github.com/ralvyathaya/codex-market-explorer#readme",
   "keywords": [
     "codex",
     "skill",
