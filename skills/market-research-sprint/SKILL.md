@@ -59,6 +59,10 @@ Strong / Promising but unproven / Weak / Pivot required
 **Market Map**
 ...
 
+**Niche Overlap Check**
+| Niche A | Niche B | Overlap Type | Shared Signal | Key Difference | Action | Confidence |
+|---|---|---|---|---|---|---|
+
 **Search Query Pack**
 ...
 
@@ -108,5 +112,7 @@ Before finalizing, check:
 - Assumptions are named plainly.
 - Recommendations follow from pain evidence.
 - The verdict is explicit and not hedged.
+- The niche overlap check compares audience, pain, job-to-be-done, current workaround, buyer, channel, and customer language.
+- Similar labels alone are not enough to merge niches; uncertain overlaps are labeled as hypotheses.
 - The top opportunity can be tested manually before building software.
 - Success metrics and kill criteria are concrete enough to run this week.

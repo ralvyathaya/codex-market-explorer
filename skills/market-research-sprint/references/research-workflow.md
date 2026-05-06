@@ -34,6 +34,41 @@ Keep categories distinct. Prefer clear segmentation dimensions:
 - Psychographic: belief, fear, desired identity, motivation.
 - Contextual: geography, regulation, device, workplace, channel, seasonality.
 
+## Niche Overlap Detection
+
+Run this after creating a market map or whenever the user asks for niche selection. The goal is to prevent duplicate niches from looking like separate opportunities, while avoiding premature merges that hide useful segment differences.
+
+Compare candidate niches across:
+
+- Audience: who has the problem.
+- Pain: what hurts, costs time, creates risk, or triggers action.
+- Job-to-be-done: what the customer is trying to accomplish.
+- Current workaround: what they use today, including manual hacks.
+- Buyer: who can approve, pay, or act.
+- Channel: where the audience can be reached.
+- Customer language: repeated phrases, metaphors, objections, or desired outcomes.
+
+Use these overlap types:
+
+| Overlap Type | Meaning |
+|---|---|
+| Audience overlap | Same customer, different pain. |
+| Pain overlap | Same pain, different customer. |
+| JTBD overlap | Same job-to-be-done, different category or niche label. |
+| Solution overlap | Same workaround, competitor, or substitute behavior. |
+| Language overlap | Repeated customer phrases across niches. |
+
+Use these actions:
+
+| Action | Use When |
+|---|---|
+| Merge | Audience, pain, job, buyer, and workaround are materially the same. |
+| Split | The label is broad but contains different triggers, urgency, or buying moments. |
+| Keep separate | Similar surface language hides different buyer, channel, urgency, or willingness to pay. |
+| Research more | Overlap is plausible but evidence is thin or mostly inferred. |
+
+Do not merge niches based only on similar labels. If the evidence is weak, mark confidence as low and write the overlap as a hypothesis.
+
 ## Pain-Point Extraction
 
 Scan all source material before grouping. Extract pain points that show a real experienced problem, not generic interest.

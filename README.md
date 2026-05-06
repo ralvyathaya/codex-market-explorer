@@ -8,6 +8,7 @@ It is useful for founders, indie hackers, marketers, creators, and builders who 
 
 - Maps broad markets into categories, niches, and sub-niches.
 - Creates Reddit, forum, review, and community search queries.
+- Detects overlapping niches and recommends merge, split, keep separate, or research more.
 - Analyzes pasted Reddit comments, reviews, transcripts, surveys, or notes.
 - Extracts customer pain points and exact customer language.
 - Finds market gaps and ranks business opportunities.
@@ -109,6 +110,16 @@ Focus only on this niche and find sub-segments, likely pain points, and current 
 ```text
 Use $market-research-sprint to create a search query pack for people struggling with custody transitions after divorce.
 I want Reddit, forum, review, and competitor query ideas.
+```
+
+### Detect Niche Overlap
+
+```text
+Use $market-research-sprint to compare these niches for overlap.
+Detect shared audience, pain, JTBD, workaround, buyer, channel, and customer language.
+Recommend merge, split, keep separate, or research more.
+
+[paste niche list here]
 ```
 
 ### Analyze Pasted Reddit Comments
