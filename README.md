@@ -134,13 +134,6 @@ Rank the top 3 offers by pain intensity, reachability, willingness to pay, diffe
 [paste pain-point notes here]
 ```
 
-```text
-Use $market-research-sprint untuk ubah pain point ini jadi ide offer.
-Kasih verdict yang jujur: mana yang strong, mana yang lemah, dan MVP test paling kecil.
-
-[paste notes di sini]
-```
-
 ### Create A Landing Page Brief
 
 ```text
