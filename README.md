@@ -144,13 +144,6 @@ Use $market-research-sprint to explore the market for remote workers.
 Map categories, niches, sub-niches, and the most promising customer segments.
 ```
 
-Indonesian example:
-
-```text
-Use $market-research-sprint untuk explore market ibu muda yang ingin mulai bisnis online.
-Tolong breakdown kategori, niche, sub-niche, dan segmen yang paling menarik.
-```
-
 ### 2. Focus On One Niche
 
 Use this when you already know the niche and want deeper segmentation.
@@ -193,15 +186,6 @@ Use $market-research-sprint to turn these pain points into business opportunitie
 Rank the top 3 offers by pain intensity, reachability, willingness to pay, differentiation, and speed to validate.
 
 [paste pain-point notes here]
-```
-
-Indonesian example:
-
-```text
-Use $market-research-sprint untuk ubah pain point ini jadi ide offer.
-Kasih verdict yang jujur: mana yang strong, mana yang lemah, dan apa MVP test 2 minggu paling kecil.
-
-[paste notes di sini]
 ```
 
 ### 6. Create A Landing Page Brief
