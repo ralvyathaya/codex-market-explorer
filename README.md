@@ -97,11 +97,6 @@ Use $market-research-sprint to explore the market for remote workers.
 Map categories, niches, sub-niches, and the most promising customer segments.
 ```
 
-```text
-Use $market-research-sprint untuk explore market ibu muda yang ingin mulai bisnis online.
-Breakdown kategori, niche, sub-niche, dan segmen yang paling menarik.
-```
-
 ### Focus On One Niche
 
 ```text
